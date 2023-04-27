@@ -1,16 +1,4 @@
-# news
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# This Is News App
+This Project Bloc State Management Use
+<img width="196" alt="2" src="https://user-images.githubusercontent.com/131807373/234977254-447f0889-7636-4173-a0a2-dd7d2d7314bd.PNG">
+<img width="198" alt="3" src="https://user-images.githubusercontent.com/131807373/234977289-1916d9c1-dba4-478b-8047-809744c08ad1.PNG">
